@@ -144,9 +144,6 @@ python main.py
 ---
 
 ## 注意事项
-
-- ⚠️ `tokens/` 目录包含账号凭证，**请勿上传至公共仓库**
-- ⚠️ `config.json` 包含 IMAP 密码等敏感信息，**已加入 `.gitignore`**
 - 📋 Outlook 账号需要在 Microsoft 开发者平台申请 `client_id` 并获取 `refresh_token` 方可使用 XOAUTH2
 
 ---
